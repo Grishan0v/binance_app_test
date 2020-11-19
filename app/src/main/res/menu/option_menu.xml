@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btcusdt_menu_item"
+        android:title="BTC / USDT" />
+
+    <item
+        android:id="@+id/bnbbtc_menu_item"
+        android:title="BNB / BTC" />
+
+    <item
+        android:id="@+id/ethbtc_menu_item"
+        android:title="ETH / BTC" />
+
+
+</menu>
